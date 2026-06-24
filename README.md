@@ -1,15 +1,31 @@
-# Abrir YouTube
+# Accesos rápidos
 
-Haz clic en el siguiente enlace para abrir YouTube:
+## 📺 Abrir YouTube
 
-▶️ **[Abrir YouTube](https://www.youtube.com/)**
+[▶️ Abrir YouTube](https://www.youtube.com/)
 
-Si tienes la aplicación de YouTube instalada en tu teléfono, el sistema normalmente te ofrecerá abrir el enlace directamente en la app. Si no, se abrirá en el navegador.
+---
 
-## Video específico
+## 🔧 Intentar abrir Configuración
 
-También puedes enlazar directamente a un video:
+> Nota: GitHub puede bloquear este tipo de enlaces y muchos navegadores no los ejecutan.
 
-▶️ **[Ver video](https://youtu.be/VIDEO_ID)**
+<a href="intent:#Intent;action=android.settings.SETTINGS;end">
+🔧 Abrir Configuración
+</a>
 
-Reemplaza `VIDEO_ID` por el identificador real del video.
+---
+
+## 💬 Abrir Mensajes con texto preparado
+
+<a href="sms:?body=Hola,%20me%20interesa%20contactarme%20contigo%20por%20esta%20publicaci%C3%B3n%20que%20vi%20%22XXXXX%22.%20Quedo%20atento%20a%20su%20respuesta.">
+📩 Enviar mensaje
+</a>
+
+---
+
+## 📞 Enviar SMS a un número específico
+
+<a href="sms:+573108189375?body=Hola,%20me%20interesa%20contactarme%20contigo%20por%20esta%20publicaci%C3%B3n%20que%20vi%20%22XXXXX%22.%20Quedo%20atento%20a%20su%20respuesta.">
+📩 Enviar SMS al contacto
+</a>
