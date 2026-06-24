@@ -32,6 +32,6 @@
 
 ---
 
-## 🧩 Activity Launcher (APK)
+## 🧩 Activity Launcher (Descarga)
 
-👉 https://apkpure.net/activity-launcher-app/de.szalkowski.activitylauncher
+👉 https://activity-launcher.en.uptodown.com/android
