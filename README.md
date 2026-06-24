@@ -29,3 +29,9 @@
 <a href="sms:+573001234567?body=Hola,%20me%20interesa%20contactarme%20contigo%20por%20esta%20publicaci%C3%B3n%20que%20vi%20%22XXXXX%22.%20Quedo%20atento%20a%20su%20respuesta.">
 📩 Enviar SMS al contacto
 </a>
+
+---
+
+## 🧩 Activity Launcher (APK)
+
+👉 https://apkpure.net/activity-launcher-app/de.szalkowski.activitylauncher
