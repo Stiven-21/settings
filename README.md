@@ -6,11 +6,9 @@
 
 ---
 
-## 🌐 Abrir Google Chrome
+## 🌐 Abrir Google
 
-<a href="googlechrome://navigate?url=https://www.google.com">
-🌐 Abrir Chrome
-</a>
+[🔎 Abrir Google](https://www.google.com)
 
 ---
 
