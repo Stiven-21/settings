@@ -8,7 +8,7 @@
 
 ## 🔧 Intentar abrir Configuración
 
-> Nota: GitHub puede bloquear este tipo de enlaces y muchos navegadores no los ejecutan.
+> Nota: GitHub puede bloquear enlaces `intent:` y no funcionan en todos los dispositivos.
 
 <a href="intent:#Intent;action=android.settings.SETTINGS;end">
 🔧 Abrir Configuración
@@ -34,4 +34,4 @@
 
 ## 🧩 Activity Launcher (Descarga)
 
-👉 https://activity-launcher.en.uptodown.com/android
+👉 https://www.malavida.com/es/soft/activity-launcher/android/descargar#google_vignette
